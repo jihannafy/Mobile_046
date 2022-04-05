@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="anyNetwork" type="id">anyNetwork</item>
+    <item name="wifiNetwork" type="id">wifiNetwork</item>
+    <item name="networkOptions" type="id">networkOptions</item>
+</resources>
